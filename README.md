@@ -19,3 +19,4 @@
 - O cliente ele é responsável por estabelecer a conexão com o servidor, receber menssagens traduzidas do servidor e enviar mensssgens para traduzir.
 
 ### Exemplo de funcionamento
+![Mostrando como funciona a aplicação](aplicacao_sockets.gif)
