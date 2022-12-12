@@ -8,7 +8,7 @@
 
 
 ### Requisitos
-- Python 3
+- Python 3 : `3.10.7`
 - googletrans : `!pip install googletrans`
 - sockets : `!pip install sockets`
 
